@@ -1,0 +1,423 @@
+﻿Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется откат для сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Восстанавливается исходное состояние журнала событий для источника DirectoryMonitoringService.
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется откат для сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Восстанавливается исходное состояние журнала событий для источника DirectoryMonitoringService.
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Попытка останова службы DirectoryMonitoringService.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется удаление источника EventLog DirectoryMonitoringService.
+Выполняется удаление службы DirectoryMonitoringService из системы...
+Служба DirectoryMonitoringService успешно удалена из системы.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется откат для сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Восстанавливается исходное состояние журнала событий для источника DirectoryMonitoringService.
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Служба DirectoryMonitoringService успешно установлена.
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Выполняется установка сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Устанавливается служба DirectoryMonitoringService...
+Создается исходный EventLog DirectoryMonitoringService в журнале Application...
+Выполняется откат для сборки 'C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.exe
+   logfile = C:\spo\DirectoryMonitoring\DirectoryMonitoring\bin\Debug\DirectoryMonitoring.InstallLog
+Восстанавливается исходное состояние журнала событий для источника DirectoryMonitoringService.
